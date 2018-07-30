@@ -1,1 +1,24 @@
 /* add CSS class and element and selectors here */
+  body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+  
+
+  /*h1 {*/
+  /*  color: yellow;*/
+  /*}*/
+  
+  /*h2 {*/
+  /*  color: red;*/
+  /*}*/
+  
+.info-section {
+    color: green;
+    font-family: 'Abril Fatface', cursive; 
+  }
+  
+#title-section {
+    color: purple;
+}
+  
